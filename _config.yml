@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Add remote jekyll theme
+gem "jekyll-remote-theme"
+
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -53,3 +56,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
