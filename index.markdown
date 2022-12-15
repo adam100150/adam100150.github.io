@@ -5,10 +5,9 @@ layout: default
 # Projects
 ## Virtual Art Gallery
 
-https://user-images.githubusercontent.com/17362800/207952910-e6cc1e04-79f5-45a2-882a-36fb79354839.mov
 
-
-
+<video src="https://user-images.githubusercontent.com/17362800/207952910-e6cc1e04-79f5-45a2-882a-36fb79354839.mov" controls width="560" height="315" style="max-width: 730px;">
+</video>
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
