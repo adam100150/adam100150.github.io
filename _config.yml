@@ -20,7 +20,7 @@
 
 title: Adam Ashkenazi
 #description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 # theme: jekyll-theme-cayman
 #baseurl: "" # the subpath of your site, e.g. /blog
