@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Adam Ashkenazi
 # Projects
 ## Virtual Art Gallery
 
