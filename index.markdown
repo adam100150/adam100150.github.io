@@ -21,4 +21,4 @@ This is a tic-tac-toe game made in python using the pygame library. I made this 
 
 ## Lyrics and Quotes
 
-I love looking at meaningful lyrics and quotes so I made a website where people can share and talk about them. The website is buit using Firebase Realtime Database and Svelte as its UI framework. Click [here](lyricsandquotes.org) to go to the website and [here]() to see the design document.
+I love looking at meaningful lyrics and quotes so I made a website where people can share and talk about them. The website is buit using Firebase Realtime Database and Svelte as its UI framework. Click [here](https://lyricsandquotes.org/) to go to the website and [here](lyricsandquotes) to see the design document.
