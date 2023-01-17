@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Adam Ashkenazi
 I am a software and hardware enthuasits. I like to make both projects and hardware projects and talking about the interface between the two.
 
 # Projects
