@@ -19,3 +19,7 @@ This is a terminal application that's emulating an art gallery with a user syste
 </video>
 
 This is a tic-tac-toe game made in python using the pygame library. I made this project to learn more about AI. This AI in this project uses a minimax tree which examins the state of the board and decides the best move based in a heuristic that's assigned to different game states. You can checkout the source code [here](https://github.com/adam100150/tic-tac-toe).
+
+## Lyrics and Quotes
+
+I love looking at meaningful lyrics and quotes so I made a website where people can share and talk about them. The website is buit using Firebase Realtime Database and Svelte as its UI framework. Click [here](lyricsandquotes.org) to go to the website and [here]() to see the design document.
